@@ -2,7 +2,7 @@
 
 <h1>Olá! Prazer em conhecer, me chamo Carla dos Santos</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F288E8&size=35&&vCenter=true&width=1000&lines=Sou+desenvolvedora+front-end+:%29)](https://github.com/Carla-s-Romero)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F288E8&size=35&&vCenter=true&width=1000&lines=Sou+desenvolvedora+front-end+<3)](https://github.com/Carla-s-Romero)
 
 <h2>Sobre mim:</h2>
 <p>Tenho 18 anos e concluí o ensino médio com um curso técnico em TI pelo Senac Mediotec - Paulista. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS) na mesma instituição. Meu objetivo é criar sites impecáveis e inclusivos que resolvam problemas reais.
