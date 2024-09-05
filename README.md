@@ -32,4 +32,4 @@ No meu tempo livre, gosto de jogar jogos competitivos, ler, assistir séries e a
 
  <h2> Github Status: </h2>
 
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Carla&theme=transparent&bg_color=000&border_color=F288E8C&show_icons=true&icon_color=F288E8C&title_color=F288E8&text_color=FFF) 
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Carla+Santos+&theme=transparent&bg_color=000&border_color=F288E8C&show_icons=true&icon_color=F288E8C&title_color=F288E8&text_color=FFF) 
