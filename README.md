@@ -5,7 +5,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F288E8&size=35&&vCenter=true&width=1000&lines=Sou+desenvolvedora+front-end+<3)](https://github.com/Carla-s-Romero)
 
 <h2>Sobre mim:</h2>
-<p>Tenho 18 anos e concluí o ensino médio com um curso técnico em TI pelo Senac Mediotec - Paulista. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS) na mesma instituição. Meu objetivo é criar sites impecáveis e inclusivos que resolvam problemas reais.
+<p>Tenho 18 anos e concluí o ensino médio com um curso técnico em TI pelo Senac Mediotec - Paulista. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS) na mesma instituição.
+ 
+Meu objetivo é criar sites impecáveis e inclusivos que resolvam problemas reais.
 Sou uma pessoa dedicada e observadora, características que me ajudam a enfrentar desafios e desenvolver interfaces inovadoras. Sou apaixonada por Front-end e Data Science, e busco constantemente aprimorar minhas habilidades nessas áreas.
 No meu tempo livre, gosto de jogar jogos competitivos, ler, assistir séries e animes, e, de vez em quando, criar sites aleatórios.</p>
 
