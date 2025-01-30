@@ -32,6 +32,4 @@ No meu tempo livre, gosto de jogar jogos competitivos, ler, assistir séries e a
  ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
  ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 
- <h2> Github Status: </h2>
 
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Carla&theme=transparent&bg_color=000&border_color=F288E8C&show_icons=true&icon_color=F288E8C&title_color=F288E8&text_color=FFF) 
