@@ -20,7 +20,7 @@ No meu tempo livre, gosto de jogar jogos competitivos, ler, assistir séries e a
 
 <h2>Habilidades:</h2>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
  <h2>Bibliotecas e Frameworks: </h2>
  
